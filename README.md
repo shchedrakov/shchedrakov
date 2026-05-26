@@ -16,7 +16,7 @@ Best fit: remote backend/platform roles in small or mid-size product teams where
 ## Experience
 
 ### Backend / Platform Developer
-**Wyoming Interactive — Hill's Veterinary Academy**  
+[Wyoming Interactive](https://wyoming-interactive.com/) - international digital agency
 Sep 2023 – Feb 2026
 
 Worked on a group of projects for **Hill's Veterinary Academy** — a global LMS for veterinary professionals with regional platforms in Europe, North America, Latin America, Australia, and Oceania.
@@ -32,7 +32,7 @@ Worked on a group of projects for **Hill's Veterinary Academy** — a global LMS
 - Worked in a cross-functional team of 5–6 developers, QA, designers, managers, client representatives, and business stakeholders. Took part in technical discussions, code reviews, task estimation, Jira planning, and production issue investigation.
 
 ### FullStack Developer
-**Media Group / i10.ru**  
+**[i10](https://i10.ru/) - Media Group**  
 Jan 2022 – Jul 2023
 
 Worked on a group of high-traffic media websites with around **6.5 million monthly users**. Main focus: performance, reliability, monetization, and reducing support costs.
@@ -47,7 +47,7 @@ Worked on a group of high-traffic media websites with around **6.5 million month
 - In addition to development, helped coordinate a team of 3 developers and QA: discussed tasks with business owners, proposed technical solutions, took part in planning, quality control, and production issue analysis.
 
 ### FullStack Developer
-**Crypto Mining Analytics Platform — 2miners.com**  
+**[2Miners](https://2miners.com/) - Crypto Mining Analytics Platform**  
 Feb 2020 – Dec 2021
 
 Worked on a **real-time analytics platform for cryptocurrency mining pools**. The system collected data from external APIs, processed it, and showed users live financial and operational metrics in a dashboard.
@@ -60,7 +60,7 @@ Worked on a **real-time analytics platform for cryptocurrency mining pools**. Th
 - Worked directly with business owners, helped turn product ideas into technical tasks, coordinated implementation, and was responsible for product quality, stability, and predictable operation.
 
 ### FullStack Developer
-**[SEOMATOR](https://seomator.com) — SEO analytics platform**  
+**[SEOmator](https://seomator.com) — SEO analytics platform**  
 Jul 2018 – Jan 2020
 
 Worked on an **SEO analytics platform** for website analysis, report generation, and technical/content optimization recommendations.
