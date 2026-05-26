@@ -16,8 +16,8 @@ Best fit: remote backend/platform roles in small or mid-size product teams where
 ## Experience
 
 ### Backend / Platform Developer
-[Wyoming Interactive](https://wyoming-interactive.com/) - international digital agency
-Sep 2023 – Feb 2026
+**[Wyoming Interactive](https://wyoming-interactive.com/) - international digital agency**  
+*Sep 2023 – Feb 2026*
 
 Worked on a group of projects for **Hill's Veterinary Academy** — a global LMS for veterinary professionals with regional platforms in Europe, North America, Latin America, Australia, and Oceania.
 
@@ -33,7 +33,7 @@ Worked on a group of projects for **Hill's Veterinary Academy** — a global LMS
 
 ### FullStack Developer
 **[i10](https://i10.ru/) - Media Group**  
-Jan 2022 – Jul 2023
+*Jan 2022 – Jul 2023*
 
 Worked on a group of high-traffic media websites with around **6.5 million monthly users**. Main focus: performance, reliability, monetization, and reducing support costs.
 
@@ -48,7 +48,7 @@ Worked on a group of high-traffic media websites with around **6.5 million month
 
 ### FullStack Developer
 **[2Miners](https://2miners.com/) - Crypto Mining Analytics Platform**  
-Feb 2020 – Dec 2021
+*Feb 2020 – Dec 2021*
 
 Worked on a **real-time analytics platform for cryptocurrency mining pools**. The system collected data from external APIs, processed it, and showed users live financial and operational metrics in a dashboard.
 
@@ -61,7 +61,7 @@ Worked on a **real-time analytics platform for cryptocurrency mining pools**. Th
 
 ### FullStack Developer
 **[SEOmator](https://seomator.com) — SEO analytics platform**  
-Jul 2018 – Jan 2020
+*Jul 2018 – Jan 2020*
 
 Worked on an **SEO analytics platform** for website analysis, report generation, and technical/content optimization recommendations.
 
@@ -75,14 +75,13 @@ Worked on an **SEO analytics platform** for website analysis, report generation,
 ## Education
 
 **Specialist Degree in Software Engineering**  
-Southern Federal University, Russia · Sep 2008 – Jul 2013
-
+Southern Federal University, Russia  
+*Sep 2008 – Jul 2013*  
 Five-year integrated higher education degree; qualification awarded: Engineer.  
 Specialisation: Software of Computer Systems and Automated Systems.
 
 **Zend Certified PHP Engineer**  
-Jun 2015
-
+*Jun 2015*  
 Professional PHP certification covering core PHP, OOP, security, databases, and web development fundamentals.
 
 ## Skills
